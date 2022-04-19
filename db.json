@@ -12,15 +12,15 @@
       },
       {
         "id": 1,
-        "namer": "the pleasure",
-        "namep": "papas fritas",
+        "namer": "The pleasure",
+        "namep": "Papas fritas",
         "description": "Las papas fritas o patatas fritas, también conocidas como papas a la francesa o patatas a la francesa.",
         "price": 15000, 
         "image": "https://cdn2.cocinadelirante.com/sites/default/files/styles/gallerie/public/images/2019/05/receta-de-papas-fritas-sin-freir.jpg"
       },
       {
         "id": 1,
-        "namep": "fast food",
+        "namep": "Fast food",
         "namer": "Hot dog",
         "description": "es un alimento en forma de bocadillo que se genera con la combinación de una salchicha del tipo salchicha de Frankfurt (frankfurter) o vienesa (wiener) hervida o frita.",
         "price": 10000,   
