@@ -5,8 +5,8 @@
         "namer": "Sabor de la casa",
         "namep": "Hamburger",
         "description": "sándwich hecho a base de carne molida o de origen vegetal, aglutinada en forma de filete cocinado a la parrilla o a la plancha, aunque también puede freírse u hornearse.",
-        "price":28000, 
-        "image": "https://i0.wp.com/www.aspicyperspective.com/wp-content/uploads/2020/05/Best-Hamburger-Patty-Recipe-14.jpg?resize=650%2C882&ssl=1"
+        "price":28.000, 
+        "image": "https://www.aspicyperspective.com/wp-content/uploads/2020/07/best-hamburger-patties-1.jpg"
         
   
       },
@@ -15,7 +15,7 @@
         "namer": "the pleasure",
         "namep": "papas fritas",
         "description": "Las papas fritas o patatas fritas, también conocidas como papas a la francesa o patatas a la francesa.",
-        "price": 15000, 
+        "price": 15.000, 
         "image": "https://cdn2.cocinadelirante.com/sites/default/files/styles/gallerie/public/images/2019/05/receta-de-papas-fritas-sin-freir.jpg"
       },
       {
@@ -23,7 +23,7 @@
         "namep": "fast food",
         "namer": "Hot dog",
         "description": "es un alimento en forma de bocadillo que se genera con la combinación de una salchicha del tipo salchicha de Frankfurt (frankfurter) o vienesa (wiener) hervida o frita.",
-        "price": 10000,   
+        "price": 10.000,   
         "image": "https://www.gastrolabweb.com/u/fotografias/fotosnoticias/2021/4/23/12179.jpeg"
       }
     ]
