@@ -20,8 +20,8 @@
       },
       {
         "id": 2,
-        "namep": "Fast food",
-        "namer": "Hot dog",
+        "namep": "Hot dog",
+        "namer": "Fast food",
         "description": "es un alimento en forma de bocadillo que se genera con la combinación de una salchicha del tipo salchicha de Frankfurt (frankfurter) o vienesa (wiener) hervida o frita.",
         "price": 10000,   
         "image": "https://www.gastrolabweb.com/u/fotografias/fotosnoticias/2021/4/23/12179.jpeg"
